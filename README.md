@@ -1,4 +1,4 @@
-# progate
+# progate-nodejs
 
 【概要】  
 progateのnodejsを自主学習した記事投稿サイトと買い物リストアプリになります。
